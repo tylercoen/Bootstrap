@@ -1,3 +1,3 @@
 # Bootstrap
 
-practicing with Bootstrap.
+Just some files practicing bootstrap.
